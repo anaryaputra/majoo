@@ -1,0 +1,15 @@
+body,
+#main-container,
+#main-flexbox {
+  min-height: 100vh;
+}
+
+#signup,
+#login-alert,
+#signup-alert {
+  display: none;
+}
+
+#card-1 {
+  border-radius: 1rem;
+}

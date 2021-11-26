@@ -1,0 +1,8 @@
+#sidebar-wrapper {
+  min-height: 100vh;
+}
+
+.alert,
+.progress {
+  display: none;
+}

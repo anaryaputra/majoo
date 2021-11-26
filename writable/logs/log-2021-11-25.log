@@ -1,0 +1,366 @@
+CRITICAL - 2021-11-25 06:50:41 --> Class "App\Controllers\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:50:41 --> Class "App\Controllers\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:58:09 --> Class "App\Controllers\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:58:09 --> Class "App\Controllers\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:58:55 --> Class "App\Models\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:58:56 --> Class "App\Models\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:59:59 --> Class "App\Models\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 06:59:59 --> Class "App\Models\M_Product" not found
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(801): App\Controllers\C_Product->__construct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 07:26:48 --> syntax error, unexpected token ";", expecting "]"
+#0 /home/anaryai1/public_html/majoo/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/anaryai1/public_html/majoo/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(789): class_exists()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 07:26:48 --> syntax error, unexpected token ";", expecting "]"
+#0 /home/anaryai1/public_html/majoo/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/anaryai1/public_html/majoo/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(789): class_exists()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 07:41:15 --> Cannot access protected property CodeIgniter\HTTP\Files\UploadedFile::$hasMoved
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 07:41:15 --> Cannot access protected property CodeIgniter\HTTP\Files\UploadedFile::$hasMoved
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 08:22:09 --> Undefined variable $response
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-25 08:22:09 --> Undefined variable $response
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(87): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-25 08:25:57 --> Cannot access protected property CodeIgniter\HTTP\Files\UploadedFile::$hasMoved
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 08:25:58 --> Cannot access protected property CodeIgniter\HTTP\Files\UploadedFile::$hasMoved
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-25 10:34:57 --> Attempt to read property "name" on array
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(137): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(26): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 10:35:25 --> Attempt to read property "category" on array
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(138): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(26): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 11:25:13 --> Call to undefined method CodeIgniter\Pager\Pager::hasPrevious()
+#0 /home/anaryai1/public_html/majoo/system/View/View.php(214): include()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#3 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(27): view()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-25 12:06:22 --> Cannot access offset of type string on string
+#0 /home/anaryai1/public_html/majoo/system/View/View.php(214): include()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#3 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(35): view()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-25 12:06:44 --> Cannot access offset of type string on string
+#0 /home/anaryai1/public_html/majoo/system/View/View.php(214): include()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#3 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(35): view()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-25 12:36:28 --> Undefined variable $account
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(25): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 12:36:47 --> Undefined variable $account
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(25): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 12:36:54 --> Undefined variable $account
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(85): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(25): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 12:38:01 --> Cannot access offset of type string on string
+#0 /home/anaryai1/public_html/majoo/system/View/View.php(214): include()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#3 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(25): view()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-11-25 12:38:20 --> Undefined variable $produk
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(136): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(27): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayPage()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 15:24:28 --> Call to undefined function Config\post()
+#0 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(705): require()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-11-25 15:25:22 --> Unknown column 'name' in 'field list'
+CRITICAL - 2021-11-25 15:25:22 --> Unknown column 'name' in 'field list'
+#0 /home/anaryai1/public_html/majoo/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/anaryai1/public_html/majoo/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/anaryai1/public_html/majoo/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/anaryai1/public_html/majoo/system/Database/BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query()
+#4 /home/anaryai1/public_html/majoo/system/Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/anaryai1/public_html/majoo/system/BaseModel.php(738): CodeIgniter\Model->doInsert()
+#6 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#7 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#8 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#9 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#10 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2021-11-25 15:25:22 --> Unknown column 'name' in 'field list'
+CRITICAL - 2021-11-25 15:25:22 --> Unknown column 'name' in 'field list'
+#0 /home/anaryai1/public_html/majoo/system/Database/MySQLi/Connection.php(292): mysqli->query()
+#1 /home/anaryai1/public_html/majoo/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/anaryai1/public_html/majoo/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/anaryai1/public_html/majoo/system/Database/BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query()
+#4 /home/anaryai1/public_html/majoo/system/Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 /home/anaryai1/public_html/majoo/system/BaseModel.php(738): CodeIgniter\Model->doInsert()
+#6 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#7 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#8 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#9 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#10 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#11 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2021-11-25 15:27:01 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:27:02 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:30:09 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:30:09 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:31:24 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:31:24 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:31:37 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:31:37 --> There is no data to insert.
+#0 /home/anaryai1/public_html/majoo/system/BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/anaryai1/public_html/majoo/system/Model.php(620): CodeIgniter\BaseModel->insert()
+#2 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(102): CodeIgniter\Model->insert()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createCategory()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 15:46:42 --> Undefined variable $kateogri
+#0 /home/anaryai1/public_html/majoo/app/Views/V_Dashboard.php(205): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/View/View.php(214): include('/home/anaryai1/...')
+#2 /home/anaryai1/public_html/majoo/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/anaryai1/public_html/majoo/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(40): view()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayDashboard()
+#6 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-25 16:20:27 --> Unclosed '{' on line 33 does not match ')'
+#0 /home/anaryai1/public_html/majoo/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/anaryai1/public_html/majoo/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(789): class_exists()
+#4 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-25 16:21:32 --> Undefined property: App\Controllers\C_Page::$product_category
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(38): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayDashboard()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-25 16:22:33 --> Undefined property: App\Controllers\C_Page::$category_model
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_Page.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Page->displayDashboard()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-25 17:53:47 --> Undefined variable $data
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(44): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-25 17:53:48 --> Undefined variable $data
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_Product.php(44): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_Product->createProduct()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

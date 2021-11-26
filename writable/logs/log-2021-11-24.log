@@ -1,0 +1,28 @@
+CRITICAL - 2021-11-24 19:15:28 --> Undefined variable $model_user
+#0 /home/anaryai1/public_html/majoo/app/Controllers/BaseController.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(802): App\Controllers\BaseController->initController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-24 19:16:23 --> Undefined variable $model_user
+#0 /home/anaryai1/public_html/majoo/app/Controllers/BaseController.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(802): App\Controllers\BaseController->initController()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-24 21:28:55 --> Attempt to read property "password" on array
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_User.php(51): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_User->validateLogin()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-24 21:53:07 --> Undefined variable $user_model
+#0 /home/anaryai1/public_html/majoo/app/Controllers/C_User.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(824): App\Controllers\C_User->validateRegistration()
+#2 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/anaryai1/public_html/majoo/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/anaryai1/public_html/majoo/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
